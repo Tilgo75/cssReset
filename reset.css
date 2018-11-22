@@ -14,7 +14,6 @@ table {border-collapse: collapse; border-spacing: 0;}
 /* Mobile */
 @media (max-width: 767px) {
 
-	html {font-size: 50%; text-align: center;}
-	img {margin: 0 auto;}
+	html {font-size: 50%;}
 
 }
